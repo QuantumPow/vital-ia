@@ -1,0 +1,24 @@
+[
+  {
+    "value": "suplementos",
+    "synonyms": [
+      "suples",
+      "suplemento",
+      "suplementos"
+    ]
+  },
+  {
+    "value": "complementos alimenticios",
+    "synonyms": [
+      "complementos alimenticios",
+      "complementos"
+    ]
+  },
+  {
+    "value": "píldoras",
+    "synonyms": [
+      "píldoras",
+      "cápsulas"
+    ]
+  }
+]

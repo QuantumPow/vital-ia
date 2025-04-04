@@ -1,0 +1,29 @@
+[
+  {
+    "value": "1",
+    "synonyms": [
+      "1",
+      "uno",
+      "primero",
+      "primera"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "2",
+      "dos",
+      "segundo",
+      "segunda"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "3",
+      "tres",
+      "tercero",
+      "tercera"
+    ]
+  }
+]
