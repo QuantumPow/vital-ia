@@ -1,0 +1,200 @@
+[
+  {
+    "id": "68644a98-1aef-4f43-92b5-645c8d182e4f",
+    "data": [
+      {
+        "text": "Pues casi que la ",
+        "userDefined": false
+      },
+      {
+        "text": "tercera",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2994c2fb-0a73-452e-a02c-6738132aa9e0",
+    "data": [
+      {
+        "text": "Me quedo con la ",
+        "userDefined": false
+      },
+      {
+        "text": "tres",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "09f327d0-1083-438f-a983-add657a2e0f5",
+    "data": [
+      {
+        "text": "Voy a elegir la ",
+        "userDefined": false
+      },
+      {
+        "text": "tres",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d0a37c81-514e-4c84-9e53-15361885de62",
+    "data": [
+      {
+        "text": "¿Qué dice la ",
+        "userDefined": false
+      },
+      {
+        "text": "tercera",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2108f36c-9a7a-464a-83de-cda4f3c37406",
+    "data": [
+      {
+        "text": "Cuéntame la opción ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1c42e08e-0431-4343-95ad-4f7eea3576d0",
+    "data": [
+      {
+        "text": "Prefiero la número ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f83f2a34-df2e-450c-90b9-38e0b610c81f",
+    "data": [
+      {
+        "text": "Me gustaría la ",
+        "userDefined": false
+      },
+      {
+        "text": "tercera",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8dd09895-e285-46a8-b8b4-44dd4a19a3db",
+    "data": [
+      {
+        "text": "Quiero la ",
+        "userDefined": false
+      },
+      {
+        "text": "tres",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4fac63b8-ec54-482c-9029-8f3f536c5db6",
+    "data": [
+      {
+        "text": "opción ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1dd68d98-c910-4e2a-8347-2f44f08ec5fe",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

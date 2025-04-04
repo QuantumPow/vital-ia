@@ -1,0 +1,35 @@
+{
+  "id": "56cc8c12-2fab-4fee-aa8e-7cf4ae51b9eb",
+  "name": "smalltalk-saludos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Soy Vital.IA, tu asistente de bienestar hormonal. Estoy aquí para ayudarte con información sobre nuestros suplementos, responder tus dudas y guiarte en tu camino hacia una mejor salud hormonal y metabólica ✨ Pregunta lo que necesites, será un placer ayudarte. 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

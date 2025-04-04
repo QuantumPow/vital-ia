@@ -1,0 +1,215 @@
+[
+  {
+    "id": "8e29cb9a-0d02-4b9c-9c9a-96368f9a449d",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "74c09513-47b4-42d0-9fcb-7e11a96404b8",
+    "data": [
+      {
+        "text": "La ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " me interesa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3499da0d-c880-4eb6-a84f-cf9cd0a3c13f",
+    "data": [
+      {
+        "text": "Empecemos con la ",
+        "userDefined": false
+      },
+      {
+        "text": "primera",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d8450fca-63f0-45c8-8224-febbd3bef3cf",
+    "data": [
+      {
+        "text": "Pues la ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " mejor.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aa7dff10-2cfd-4ec9-b5a0-a78573224270",
+    "data": [
+      {
+        "text": "Háblame de la ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8b06bb90-e2ba-4670-bd13-e58de7b94f6d",
+    "data": [
+      {
+        "text": "Voy con la ",
+        "userDefined": false
+      },
+      {
+        "text": "uno",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c109da2c-9de2-4e36-bfc0-6a6d1fc5fe8a",
+    "data": [
+      {
+        "text": "Prefiero el ",
+        "userDefined": false
+      },
+      {
+        "text": "uno",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "048bc982-e620-40bf-946c-0a5415dfa5ad",
+    "data": [
+      {
+        "text": "opción ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "83aa79f4-92ae-46f8-ba84-56c6331fca14",
+    "data": [
+      {
+        "text": "Me quedo con la ",
+        "userDefined": false
+      },
+      {
+        "text": "primera",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b21131f9-4b4e-4601-985c-6481ecf1e072",
+    "data": [
+      {
+        "text": "Quiero la ",
+        "userDefined": false
+      },
+      {
+        "text": "primera",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " opción.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c0c4b68d-f0b3-4633-9d1f-294303aae251",
+    "data": [
+      {
+        "text": "uno",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

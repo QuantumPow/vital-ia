@@ -1,0 +1,9 @@
+{
+  "id": "2ce386df-8d3c-4ec7-b43d-92c2e9c99b4d",
+  "name": "consejo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

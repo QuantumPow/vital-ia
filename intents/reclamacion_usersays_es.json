@@ -1,0 +1,132 @@
+[
+  {
+    "id": "a859aac6-1a2d-4e5c-9f15-e794be56eb5c",
+    "data": [
+      {
+        "text": "Este producto no me ha servido para nada, quiero una solución.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7fa8bd98-b444-479d-9698-9f8b26732acb",
+    "data": [
+      {
+        "text": "El paquete ha llegado con daños, ¿cómo puedo resolverlo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "19b0001f-8394-43d6-9244-320bd1a49494",
+    "data": [
+      {
+        "text": "Me parece fatal, este producto no me ha servido para nada.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a0147372-43b2-4389-b22a-d8dc33a57d2d",
+    "data": [
+      {
+        "text": "Cómo hago para que me devolváis el dinero?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d0f05daf-38ad-4adf-986f-95b948a9613a",
+    "data": [
+      {
+        "text": "Está tardando mucho en llegar, quiero poner una queja.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2f410517-0fc1-4537-ae56-52e5ba2f19f2",
+    "data": [
+      {
+        "text": "Tengo un problema con mi pedido, ¿cómo puedo gestionarlo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "99687724-c71b-4560-a74f-a65fec44762e",
+    "data": [
+      {
+        "text": "Quiero poner un reclamación.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c92b052a-fe4c-4d2f-888d-ee43fda45728",
+    "data": [
+      {
+        "text": "¿Puedo hacer un cambio o devolver el pedido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7e0c2c1e-486e-4c7b-bbc0-55be75d1bfe5",
+    "data": [
+      {
+        "text": "El suplemento no ha tenido los efectos que esperaba, ¿me podéis dar una solución?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "659b24bb-be3b-45e3-9947-9beb2f2c11b2",
+    "data": [
+      {
+        "text": "Mi pedido no ha llegado.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

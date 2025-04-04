@@ -1,0 +1,69 @@
+{
+  "id": "a0d470a2-dc45-4e6b-bca5-7dc9139c3b82",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "text": "¡Hola! Soy *Vital.IA*, tu asistente de bienestar hormonal. Es un placer enorme poder ayudarte con todo lo relacionado con tu salud y nuestros productos. Estas son algunas de las cosas que puede hacer por ti:\n 1. Consejitos de salud\n 2. Información sobre los compuestos de nuestros suplementos.\n 3. Cómo se toma cada complemento alimenticio.\n 4. Dónde puedes conseguir nuestros productos.\n 5. Qué puedes hacer para contactar con nosotros.\n ¡Estoy a tu disposición!\nAsí que no dudes en preguntar 💙"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "text": "¡Qué ilusión verte de vuelta por aquí! 💙 Soy *Vital.IA*, tu asistente de bienestar hormonal. Recuerda que puedo ayudarte con: \n1. Consejitos de salud \n2. Información sobre nuestros productos. \n3. Cómo tienes que tomarlos. \n4. Dónde compar nuestros complementos alimenticios.\n 5. Cómo puedes  contactar con nosotros. \n¿Qué puedo hacer por ti? 😊"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Hola! Soy Vital.IA, tu asistente de bienestar hormonal. Es un placer enorme poder ayudarte con todo lo relacionado con tu salud y nuestros productos. Estas son algunas de las cosas que puede hacer por ti:\n1. Consejitos de salud \n2. Información sobre los compuestos de nuestros suplementos. \n3. Cómo se toma cada complemento alimenticio.\n4. Dónde puedes conseguir nuestros productos.\n5. Qué puedes hacer para contactar con nosotros.\n ¡Estoy a tu disposición!\n Así que no dudes en preguntar 💙",
+            "¡Qué ilusión verte de vuelta por aquí! 💙 Soy Vital.IA, tu asistente de bienestar hormonal. Recuerda que puedo ayudarte con: \n1. Consejitos de salud \n2. Información sobre nuestros productos. \n3. Cómo tienes que tomarlos.\n4. Dónde compar nuestros complementos alimenticios.\n5. Cómo puedes  contactar con nosotros.\n¿Qué puedo hacer por ti? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

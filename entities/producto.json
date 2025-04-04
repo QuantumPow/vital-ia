@@ -1,0 +1,9 @@
+{
+  "id": "a65e4725-39f6-47b8-bf4d-8017c14fab6b",
+  "name": "producto",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d8465f4a-33c4-4640-8a5d-3f048375027d",
+  "name": "angry-fallback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Ay, siento de corazón no poder serte de ayuda 🥹. Te propongo volver a intentarlo, ya sabes que puedo contestar preguntas sobre bienestar y nuestros productos, pero si ves que la conversación no llega a buen puerto siempre puedes escribirnos desde nuestra página de contacto (https://ivbwellness.com/pages/contacto) o escribir a Isabel Viña por Instagram (@isabelvina) estará encantada de resolver tus dudas 🤗",
+            "¡Qué pena no haber podido ayudarte esta vez! 🥲 Pero no te preocupes, ¡siempre podemos intentarlo de nuevo! Estoy aquí para responder cualquier nuestros productos y, si lo necesitas, darte algún consejo de bienestar. \nSi ves que no consigo resolver tu duda, puedes escribirnos desde nuestra página de contacto (https://ivbwellness.com/pages/contacto) o incluso a Isabel Viña directamente por Instagram (@isabelvina), ¡le encantará ayudarte! 🤗💙"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

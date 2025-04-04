@@ -1,0 +1,145 @@
+[
+  {
+    "id": "8c29eb91-b084-43e8-b8d1-ac68324b639c",
+    "data": [
+      {
+        "text": "De dónde has salido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9b28a7db-587f-4a6f-bf01-a2e3262e0681",
+    "data": [
+      {
+        "text": "¿Puedes explicarme cómo funcionas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d0b31812-c080-4f3c-9148-ac523a386673",
+    "data": [
+      {
+        "text": "Eres una persona real?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5bf934d5-5c30-4c22-aed7-c09e5e997d7f",
+    "data": [
+      {
+        "text": "¿Eres un robot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "84c7ed8b-0526-4822-a69c-0f2b937d7d20",
+    "data": [
+      {
+        "text": "Háblame de ti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "28581b6f-2a97-4a4e-8a07-1752f2776d60",
+    "data": [
+      {
+        "text": "Cómo puedo usarte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "269c92ef-f6ea-45e9-a95a-a5345890e06d",
+    "data": [
+      {
+        "text": "Para qué te han creado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8a26851b-9fb2-416b-9142-11587b12c3e9",
+    "data": [
+      {
+        "text": "Cuál es tu función?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c1f7c063-abd3-454d-b0ca-5bcfae01cfac",
+    "data": [
+      {
+        "text": "¿Qué puedes hacer por mi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c7da2a8e-95a6-4367-a9a1-96ec15b347b6",
+    "data": [
+      {
+        "text": "¿Quién eres?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6a3d15ec-4a25-4d88-93f1-db2dd76143a4",
+    "data": [
+      {
+        "text": "¿Para qué sirves?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

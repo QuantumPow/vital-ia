@@ -1,0 +1,9 @@
+{
+  "id": "017ff191-f2fa-432a-91c5-eb696d5eb90d",
+  "name": "suplementos",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

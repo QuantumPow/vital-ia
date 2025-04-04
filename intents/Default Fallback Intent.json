@@ -1,0 +1,36 @@
+{
+  "id": "62a08988-f66e-42d9-95fb-7f3e7793be03",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Mil disculpas! No estoy entendiendo bien lo que quieres decir. Estoy aquí para ti, pero, por fa, recuerda que solo te puedo ayudar con algún consejo para cuidar tu salud,  explicarte qué llevan nuestros suplementos, cómo tomártelos y dónde comprarlos.",
+            "Lo siento mucho pero parece que lo que me pides está fuera de mi alcance 🥹 ¿Te gustaría que te ayude con algo relacionado con nuestros productos?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

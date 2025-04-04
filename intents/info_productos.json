@@ -1,0 +1,56 @@
+{
+  "id": "5e5ff74a-aa17-45c5-98ef-9405be5baa54",
+  "name": "info_productos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "info_productos-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "65461794-df09-436a-8911-9c6db48ff6e8",
+          "name": "suplementos",
+          "required": false,
+          "dataType": "@suplementos",
+          "value": "$suplementos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Claro! ¿Buscas información sobre un producto en concreto o prefieres que te ayudemos a elegir el más adecuado para ti?",
+            "¡Sin problema! ¿Tienes en mente algún producto en particular o prefieres que intentemos encontrar el que mejor se adapte a tus necesidades?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
