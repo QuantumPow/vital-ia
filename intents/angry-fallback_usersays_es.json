@@ -1,0 +1,132 @@
+[
+  {
+    "id": "2644a78d-50cd-4161-9e5f-b633b68ca051",
+    "data": [
+      {
+        "text": "Buah, qué demonios estás haciendo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "29014a3f-d13e-4ae6-98cd-3566905f31f5",
+    "data": [
+      {
+        "text": "Eres imbécil o qué?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e8576248-dd58-4b52-9d76-e2ece1038296",
+    "data": [
+      {
+        "text": "Qué inútil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e68e1780-5c55-4ca8-a811-bbd114f9b96f",
+    "data": [
+      {
+        "text": "No sé si eso responde a mi pregunta.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "796cf6db-0a5a-4457-9dfa-8c023ee9a835",
+    "data": [
+      {
+        "text": "Paso de ti.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "55c2b50a-55ee-451d-a706-bcbc6d5dd0ed",
+    "data": [
+      {
+        "text": "Pff, no me sirve de nada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "60a13743-1a4b-40ac-90f4-72374c54d7d1",
+    "data": [
+      {
+        "text": "No me interesa esto.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fdf8eac0-51ba-48b1-abdf-89d6cf9ee681",
+    "data": [
+      {
+        "text": "No entiendo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5b5f3d17-b957-4338-98b2-6e5dccc84762",
+    "data": [
+      {
+        "text": "Me da igual.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4c099d21-a10a-4f2d-8be4-7a0a19031d6e",
+    "data": [
+      {
+        "text": "Esto no es lo que te he pedido.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

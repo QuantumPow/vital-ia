@@ -1,0 +1,59 @@
+{
+  "id": "25a26439-ee5c-4eee-8902-dc94c749d80c",
+  "parentId": "5e5ff74a-aa17-45c5-98ef-9405be5baa54",
+  "rootParentId": "5e5ff74a-aa17-45c5-98ef-9405be5baa54",
+  "name": "producto1",
+  "auto": true,
+  "contexts": [
+    "info_productos-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "info_productos.info_productos-custom-2",
+      "affectedContexts": [
+        {
+          "name": "producto1-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "57016001-4689-431a-8534-76994197cdc0",
+          "name": "producto",
+          "required": false,
+          "dataType": "@producto",
+          "value": "$producto",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "FemmeBalance 💊 es un complemento diseñado para apoyar el equilibrio hormonal femenino, con ingredientes como inositol y NAC. 🌱 Ayuda a regular los ciclos menstruales y mejorar la sensibilidad a la insulina. ¿Qué te gustaría saber?\n1️⃣ Composición y beneficios\n2️⃣ Cómo tomarlo\n3️⃣ Dónde comprarlo \nPor favor, dime el número de la opción que te interesa."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

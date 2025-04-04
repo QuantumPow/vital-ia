@@ -1,0 +1,51 @@
+{
+  "id": "954e545c-82a8-46bd-b562-504c39f303a4",
+  "name": "smalltalk-consejo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ff9df595-fd4b-4b76-80e8-e2250f211407",
+          "name": "consejo",
+          "required": false,
+          "dataType": "@consejo",
+          "value": "$consejo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Cuando el estrés se apodere de tu día a día, los adaptógenos pueden ser grandes aliados. Plantas como la ashwagandha o la rhodiola ayudan a tu cuerpo a adaptarse mejor a situaciones de tensión, equilibrando el cortisol y favoreciendo una sensación de calma y bienestar. ¡Incorpora estos ingredientes naturales a tu rutina y dale un respiro a tu organismo! Si te interesa, puedes encontrarlos en Stress-OFF, nuestro producto más antiestrés. 💆‍♀️ Aprende más sobre el tema en [nuestro blog.] (https://ivbwellness.com/blogs/ivb-blog/tagged/estres)",
+            "Si el cambio de hora altera tu sueño, ajusta tu rutina poco a poco. Reduce la exposición a pantallas antes de dormir, cena ligero y mantén horarios regulares. Además, ingredientes como la melatonina y el magnesio pueden ayudarte a conciliar un descanso más reparador. ¡Dale a tu cuerpo el tiempo que necesita para adaptarse y si lo necesitas prueba SomniLove, dirigido a mejorar la calidad del sueño! ✨"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

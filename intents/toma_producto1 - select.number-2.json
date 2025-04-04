@@ -1,0 +1,55 @@
+{
+  "id": "37b87f02-d711-48ba-ab7c-aab2d16b37f6",
+  "parentId": "25a26439-ee5c-4eee-8902-dc94c749d80c",
+  "rootParentId": "5e5ff74a-aa17-45c5-98ef-9405be5baa54",
+  "name": "toma_producto1 - select.number-2",
+  "auto": true,
+  "contexts": [
+    "producto1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "info_productos.info_productos-custom-2.producto1-selectnumber-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a581db68-605c-41dc-a966-054789b6779f",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Solo tienes que tomar 2 cápsulas al día, siempre con agua y preferiblemente junto con alguna comida. Así te aseguras de que se absorban mejor. ¡No importa en qué momento del día lo hagas, lo importante es ser constante!",
+            "Recuerda, la dosis diaria recomendada son 2 cápsulas, a ser posible, acompañadas de algo de comer. Si tienes alguna otra duda o necesitas más información, aquí estoy para ayudarte. ¡Cuidarte es lo primero!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

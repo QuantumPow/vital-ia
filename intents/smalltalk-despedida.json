@@ -1,0 +1,37 @@
+{
+  "id": "114a649a-7ca5-4e62-9f29-f7e33d96c929",
+  "name": "smalltalk-despedida",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Hasta pronto! No dudes en volver cuando necesites más información, y recuerda: Saber más, para temer menos y elegir mejor 💙",
+            "Me alegra haber podido hablar contigo. Ya sabes, si tienes más preguntas, ¡aquí estaré! Un abrazo fuerte y sigue cuidándote mucho 💙"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

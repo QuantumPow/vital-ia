@@ -1,0 +1,55 @@
+{
+  "id": "80857e71-46a3-449f-9ea2-5c6cba65c69e",
+  "parentId": "25a26439-ee5c-4eee-8902-dc94c749d80c",
+  "rootParentId": "5e5ff74a-aa17-45c5-98ef-9405be5baa54",
+  "name": "comprar_producto - select.number-3",
+  "auto": true,
+  "contexts": [
+    "producto1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "info_productos.info_productos-custom-2.producto1-selectnumber-3",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "805ebb53-3c9c-4a4b-bcde-54cdbab44d00",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Qué bien que te interesen nuestros productos! 💙 Puedes adquirirlos de manera fácil y segura directamente desde nuestra página web. Solo tienes que ir a la sección de tienda y realizar tu pedido cuando quieras. Si prefieres comprarlo en una farmacia, no hay problema. Puedes consultar nuestras farmacias asociadas y encontrar la más cercana a ti a través de nuestro buscador aquí: https://ivbwellness.com/pages/farmacias. ¡Cualquier duda, aquí estoy! 😊",
+            "¡Es maravilloso que estés lista para cuidar de tu bienestar! 💙 Si prefieres hacer tu compra online, te invito a visitar nuestra página web y comprar el producto directamente allí. Si eres más de ir a la farmacia, no te preocupes, tenemos varias farmacias que venden nuestros productos. Puedes consultar la lista completa a través de este enlace: https://ivbwellness.com/pages/farmacias. ¡Espero que encuentres lo que necesitas! 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

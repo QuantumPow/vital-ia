@@ -1,0 +1,182 @@
+[
+  {
+    "id": "d8bf0cd6-7f0d-4ccc-b1d1-1e245a138049",
+    "data": [
+      {
+        "text": "Quiero empezar a tomar ",
+        "userDefined": false
+      },
+      {
+        "text": "femme balance",
+        "meta": "@producto",
+        "alias": "producto",
+        "userDefined": false
+      },
+      {
+        "text": ", ¿es apto para todas las edades?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c294554c-1671-41e6-92ff-e3f0138f1a44",
+    "data": [
+      {
+        "text": "Teníais algo para las ",
+        "userDefined": false
+      },
+      {
+        "text": "hormonas esteroideas",
+        "meta": "@producto",
+        "alias": "producto",
+        "userDefined": false
+      },
+      {
+        "text": ", ¿verdad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d0d1c123-3a05-45b2-8de8-899fa93ddfec",
+    "data": [
+      {
+        "text": "Quiero que me informes sobre un suplemento para las ",
+        "userDefined": false
+      },
+      {
+        "text": "hormonas esteroideas",
+        "meta": "@producto",
+        "alias": "producto",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c387c783-6280-447e-ad20-2f88249bdf94",
+    "data": [
+      {
+        "text": "¿Es ",
+        "userDefined": false
+      },
+      {
+        "text": "femme",
+        "meta": "@producto",
+        "alias": "producto",
+        "userDefined": false
+      },
+      {
+        "text": " no sé qué adecuado para mujeres con síndrome de ovario poliquístico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "debb1a5f-ce03-43ae-aadb-f966ee725a01",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Femme ballance",
+        "meta": "@producto",
+        "alias": "producto",
+        "userDefined": false
+      },
+      {
+        "text": " es bueno para regular el ciclo menstrual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fc293791-b6a8-4392-a244-3af5d190f665",
+    "data": [
+      {
+        "text": "Estoy interesada en ",
+        "userDefined": false
+      },
+      {
+        "text": "FemmeBalance",
+        "meta": "@producto",
+        "alias": "producto",
+        "userDefined": false
+      },
+      {
+        "text": ", ¿cómo se toma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f27c7daf-6c79-4091-a05f-c9e131551638",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "femme balance",
+        "meta": "@producto",
+        "alias": "producto",
+        "userDefined": false
+      },
+      {
+        "text": " me puede ayudar con los desequilibrios hormonales?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e33864bd-1e17-48df-bc2e-34b0d659c9cd",
+    "data": [
+      {
+        "text": "Cuéntame qué es ",
+        "userDefined": false
+      },
+      {
+        "text": "FemmeBallance",
+        "meta": "@producto",
+        "alias": "producto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

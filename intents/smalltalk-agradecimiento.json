@@ -1,0 +1,36 @@
+{
+  "id": "366d523c-2ab5-4804-9541-0b8cc7476709",
+  "name": "smalltalk-agradecimiento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡No sabes cuánto me alegra leerte! Para nosotros es maravilloso saber que te están ayudando nuestros complementos alimenticios. No dudes en dejar una reseña contándonos tu experiencia, nos encantaría saber cómo te esta yendo. Es un honor acompañarte en este camino, realmente nos sentimos muy cerca de ti. Mil gracias por confiar en nosotros 💙",
+            "¡Qué maravilla! Saber que nuestros complementos están marcando una diferencia en tu bienestar nos llena de orgullo. Nos encantaría que compartieras tu experiencia, ya que puede ayudar a muchas más personas en su camino hacia una vida mejor. Gracias por dejarnos ser parte de tu cuidado, estamos aquí para ti siempre que lo necesites. 💙"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

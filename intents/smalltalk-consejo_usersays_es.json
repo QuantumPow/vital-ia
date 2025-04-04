@@ -1,0 +1,234 @@
+[
+  {
+    "id": "0847fed8-49ee-4742-9c18-e090fee6945f",
+    "data": [
+      {
+        "text": "¿Tienes alguna ",
+        "userDefined": false
+      },
+      {
+        "text": "sugerencia",
+        "meta": "@consejo",
+        "alias": "consejo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d4bada54-b3e8-4138-a677-ac4468ebfca9",
+    "data": [
+      {
+        "text": "¿Qué crees que debería hacer para encontarme mejor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aeb45a3b-209a-4885-b1ec-9013b9b94597",
+    "data": [
+      {
+        "text": "Necesito un poco de inspiración para tener hábitos más saludables, ¿me ayudas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fb2089ea-caf2-4ef3-b7eb-2141f8a4f6e2",
+    "data": [
+      {
+        "text": "Estoy en modo autocuidado, qué recomiendas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1d655c93-90f0-47cc-ad10-a0889119e282",
+    "data": [
+      {
+        "text": "¿Tienes algún ",
+        "userDefined": false
+      },
+      {
+        "text": "truco",
+        "meta": "@consejo",
+        "alias": "consejo",
+        "userDefined": true
+      },
+      {
+        "text": " saludable que pueda incorporar a mi rutina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c6bee85a-0084-4ec3-81ca-9b47fc117f89",
+    "data": [
+      {
+        "text": "Estoy buscando formas de cuidarme más, ¿qué me sugieres?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c934466d-b327-4b3b-aeca-525b5527791a",
+    "data": [
+      {
+        "text": "Ay me encantaría que me dijeras cómo mejorar mi calidad de vida.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5213ce90-c02a-4a4c-a967-b53761e3f460",
+    "data": [
+      {
+        "text": "A tope con los ",
+        "userDefined": false
+      },
+      {
+        "text": "tips",
+        "meta": "@consejo",
+        "alias": "consejo",
+        "userDefined": true
+      },
+      {
+        "text": " saludables.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "afc01f25-6061-4998-91cf-8fc50155ac7e",
+    "data": [
+      {
+        "text": "Tengo ganas de descubrir qué sabes sobre hormonas.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "db84d18b-a251-4e68-baab-d4e7fddcfaa1",
+    "data": [
+      {
+        "text": "¿Qué tienes que contarme sobre salud?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6dec311d-97d2-4976-a653-8ecbc906472c",
+    "data": [
+      {
+        "text": "Quiero que me cuentes algo sobre bienestar metabólico.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8d962958-6632-45fe-8d9c-e450f03336cd",
+    "data": [
+      {
+        "text": "Elijo el ",
+        "userDefined": false
+      },
+      {
+        "text": "consejito",
+        "meta": "@consejo",
+        "alias": "consejo",
+        "userDefined": true
+      },
+      {
+        "text": " del día.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d4cece6f-c0ca-4fac-bdb8-20a82e5d38b0",
+    "data": [
+      {
+        "text": "Me gustaría que me dieras algún ",
+        "userDefined": false
+      },
+      {
+        "text": "consejo",
+        "meta": "@consejo",
+        "alias": "consejo",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "33d7ee72-79a9-4ec3-be59-033b493d89b1",
+    "data": [
+      {
+        "text": "Venga, me apetece que me digas qué podría hacer para cuidar mi salud hormonal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

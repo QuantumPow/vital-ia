@@ -1,0 +1,182 @@
+[
+  {
+    "id": "7e9cfd35-a3cd-420e-922c-ee6ff27b20ec",
+    "data": [
+      {
+        "text": "¿Vendéis algún producto para mejorar el equilibrio hormonal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "483e2449-3cc8-4c03-97eb-218b1bc25b6c",
+    "data": [
+      {
+        "text": "Me interesa conocer más sobre vuestros ",
+        "userDefined": false
+      },
+      {
+        "text": "suplementos",
+        "meta": "@suplementos",
+        "alias": "suplementos",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d16e7db9-1520-4cd8-a52e-a0c22f757337",
+    "data": [
+      {
+        "text": "¿Me puedes recomendar algo de vuestra tienda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8b9d4bf7-7c72-459e-92ec-21f36ffa7787",
+    "data": [
+      {
+        "text": "Estoy buscando un ",
+        "userDefined": false
+      },
+      {
+        "text": "suplemento",
+        "meta": "@suplementos",
+        "alias": "suplementos",
+        "userDefined": true
+      },
+      {
+        "text": ", ¿me ayudas a elegir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f1d7a070-f99c-42f1-a6be-85fe698cc9b8",
+    "data": [
+      {
+        "text": "Quiero informarme sobre qué tenéis para mejorar mi bienestar.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a3207345-090c-4f38-890b-cdcb40beaea4",
+    "data": [
+      {
+        "text": "Dame más información sobre los ",
+        "userDefined": false
+      },
+      {
+        "text": "complementos",
+        "meta": "@suplementos",
+        "alias": "suplementos",
+        "userDefined": true
+      },
+      {
+        "text": " que vendéis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9557f845-c257-4e37-bd28-a53a6f690dd7",
+    "data": [
+      {
+        "text": "Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "complementos alimenticios",
+        "meta": "@suplementos",
+        "alias": "suplementos",
+        "userDefined": true
+      },
+      {
+        "text": " tenéis para la fertilidad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "09443ef4-e2fb-4dd1-a188-71075c9ec999",
+    "data": [
+      {
+        "text": "Qué me recomiendas para el cansancio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a6ea4568-f6fe-433b-a3e5-f06ce7ee3f66",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "píldoras",
+        "meta": "@suplementos",
+        "alias": "suplementos",
+        "userDefined": true
+      },
+      {
+        "text": " tenéis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a47d7b05-5321-4b91-a0ec-e1c0ac136247",
+    "data": [
+      {
+        "text": "Quiero saber más sobre vuestros productos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

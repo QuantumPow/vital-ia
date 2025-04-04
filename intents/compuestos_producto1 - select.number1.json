@@ -1,0 +1,60 @@
+{
+  "id": "924051de-755d-4f1f-8ca1-636c23b7ca48",
+  "parentId": "25a26439-ee5c-4eee-8902-dc94c749d80c",
+  "rootParentId": "5e5ff74a-aa17-45c5-98ef-9405be5baa54",
+  "name": "compuestos_producto1 - select.number1",
+  "auto": true,
+  "contexts": [
+    "producto1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "info_productos.info_productos-custom-2.producto1-selectnumber",
+      "affectedContexts": [
+        {
+          "name": "producto1-selectnumber-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f07fb053-b6e9-4be2-9b12-8ea1d35c47cc",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "FemmeBalance contiene una mezcla de ingredientes naturales para equilibrar tu salud hormonal. \nEntre sus principales compuestos, está el Extracto seco de Sabal Serrulata (Serenoa Repens), que puede ser muy beneficioso para la salud hormonal femenina. \nAdemás, lleva N-acetilcisteína, que favorece el bienestar general y la salud metabólica. También incluye Curcumina y Curcuminoides de la Cúrcuma, conocidos por sus propiedades antiinflamatorias y antioxidantes. \nNo podemos olvidarnos del Extracto de Sauzgatillo, que ayuda a regular el ciclo hormonal, y la Piperina de la pimienta negra, que mejora la absorción de nutrientes. ¡Todo pensado para ti! 😊",
+            "FemmeBalance está formulado con una combinación de ingredientes poderosos para apoyar tu bienestar hormonal. 💙\nContiene Sabal Serrulata, que ayuda a equilibrar los niveles hormonales, junto con N-acetilcisteína, ideal para la salud metabólica. \nTambién lleva Curcumina de la Cúrcuma, conocida por sus propiedades antiinflamatorias, y el Sauzgatillo, que regula los niveles de prolactina y alivia los síntomas del síndrome premenstrual. \nPara potenciar la absorción, incluye Piperina de la pimienta negra."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "07a7759c-c238-4d49-adf3-cd0163756f36",
+  "parentId": "5e5ff74a-aa17-45c5-98ef-9405be5baa54",
+  "rootParentId": "5e5ff74a-aa17-45c5-98ef-9405be5baa54",
+  "name": "hacer_test",
+  "auto": true,
+  "contexts": [
+    "info_productos-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "info_productos.info_productos-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Perfecto! Para poder ayudarte mejor, te recomiendo hacer nuestro test personalizado. Así podré hablarte de los productos que se ajusten exactamente a lo que necesitas. Solo tienes que ir a nuestra página principal y hacer clic en \u0027Haz el test\u0027. ¡Vamos a encontrar el suplemento ideal para ti! 😊",
+            "En ese caso ¡Tengo la solución! Te propongo que hagas un cuestionario para poder ofrecerte unas recomendaciones hechas a medida y ajustadas a tus necesidades concretas. Solo tienes que ir a nuestra página principal y pinchar en \"Haz el test\". ¡Espero que encontremos tu producto ideal! 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

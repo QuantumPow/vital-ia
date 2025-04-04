@@ -1,0 +1,36 @@
+{
+  "id": "92cceaf1-04aa-4131-8886-a595d1f130de",
+  "name": "smalltalk-info_asistente",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Pues me llamo Vital.IA, mi misión es ayudarte a entender mejor nuestros suplementos y a cuidar por tu bienestar hormonal y metabólico. Si necesitas información sobre ingredientes, tomas o dónde conseguir nuestros productos, solo tienes que decírmelo. Aunque sea un robot ¡Estoy aquí para ti! 🤗 Y puedo también darte algún que otro tip sobre bienestar: ¡Nuestra endocrina Isabel Viña Bas, me ha contado un montón de cosas! ✨",
+            "¡Ay, qué ilusión que preguntes por mi! 💙 Soy Vital.IA, tu aliada en el camino hacia una mejor salud hormonal. Estoy aquí para guiarte con información sobre nuestros productos, cómo tomarlos y darte algún que otro consejito que me va chivando nuestra Dra. Isabel Viña Bas. Cuidarte es importante, y yo estoy lista para ayudarte. 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

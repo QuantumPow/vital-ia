@@ -1,0 +1,132 @@
+[
+  {
+    "id": "12456d2a-2560-4954-87ff-68582dd23190",
+    "data": [
+      {
+        "text": "Ayúdame a elegir, por favor.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "25b4e7d2-dee6-4bca-8c6d-766fc7095860",
+    "data": [
+      {
+        "text": "Prefiero que me ayudes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d700448d-3a87-4507-a4aa-a06ac48e3943",
+    "data": [
+      {
+        "text": "Y yo qué sé.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e4203f92-a75e-4b6c-9222-07dae8a46aab",
+    "data": [
+      {
+        "text": "La verdad es que no tengo ni idea.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a8dd9663-5021-422f-ac01-9c850c4ed18f",
+    "data": [
+      {
+        "text": "No te sabría decir qué es lo que necesito todavía.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dd0316dd-6311-4598-8d41-4c6120830e33",
+    "data": [
+      {
+        "text": "Quizás si me cuentas un poco más, puedo decirte que me viene mejor.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ca994b44-27e9-482f-a19e-1a8ab88dcb90",
+    "data": [
+      {
+        "text": "Háblame de todo lo que teneís.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ce7c7d80-3d80-46e7-9f98-81bee85e2a60",
+    "data": [
+      {
+        "text": "No sé muy bien todavía.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2e0e1bd4-881e-4a86-b7e4-22612129054a",
+    "data": [
+      {
+        "text": "Necesito que me indiques cuál debería tomar.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "df1ad52c-9fdc-469a-8fb7-dc0fef707895",
+    "data": [
+      {
+        "text": "No sé cuál me conviene.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
