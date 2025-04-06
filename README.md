@@ -1,3 +1,3 @@
 # vital-ia
-My beginner-friendly chatbot.
+My very first chatbot.
 
