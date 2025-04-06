@@ -1,2 +1,3 @@
 # vital-ia
-Just a dummy chatbot for fun!
+My beginner-friendly chatbot.
+
